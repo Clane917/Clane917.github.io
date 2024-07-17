@@ -1,3 +1,23 @@
-.welcome[_ngcontent-wyb-c181] {
+.welcome {
     display: none;
+}
+
+.register-button {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: calc(2.25rem * var(--lineHeightFactor));
+    background-color: green;
+    /* Change background color to green */
+    border: none;
+    border-radius: 3.125rem;
+    color: var(--primaryColorOriginalTextContrast);
+    cursor: pointer;
+    padding: 0 1rem;
+    margin-left: .75rem;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: calc(.0625rem + calc(.03125rem * var(--letterSpaceFactor)));
+    text-transform: capitalize;
 }
