@@ -1,15 +1,18 @@
 .welcome.sticky.ng-star-inserted {
-    position: fixed;
     display: none;
 }
 
 .navbar.top-nav.indent {
-    position: fixed;
+    position: sticky;
     top: 0rem;
     z-index: 2;
     width: 100%;
     display: flex;
     justify-content: flex-start;
     height: 3rem;
-    background: green;
+    background: white;
+}
+
+.mat-focus-indicator.redeem-button.mat-stroked-button.mat-button-base.ng-star-inserted {
+    display: none;
 }
