@@ -1,4 +1,5 @@
 .welcome.sticky.ng-star-inserted {
+    position: fixed;
     display: none;
 }
 
@@ -10,5 +11,5 @@
     display: flex;
     justify-content: flex-start;
     height: 3rem;
-    background: blueviolet;
+    background: green;
 }
