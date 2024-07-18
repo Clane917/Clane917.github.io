@@ -10,9 +10,5 @@
     display: flex;
     justify-content: flex-start;
     height: 3rem;
-    background: white;
-}
-
-.mat-focus-indicator.redeem-button.mat-stroked-button.mat-button-base.ng-star-inserted {
-    display: none;
+    background: red;
 }
