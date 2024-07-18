@@ -4,5 +4,9 @@
 .navbar.top-nav.indent {
     position: fixed;
     top: 0;
-    background-color: red;
+    z-index: 2;
+    width: 100%;
+    justify-content: flex-start;
+    height: 4.5rem;
+    background: white;
 }
