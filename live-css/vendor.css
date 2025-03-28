@@ -2,17 +2,7 @@
     display: none;
 }
 
-.navbar.top-nav.indent {
-    position: sticky;
-    top: 0rem;
-    z-index: 2;
-    width: 100%;
-    display: flex;
-    justify-content: flex-start;
-    height: 3rem;
-    background: #2A3780;
+.navbar.top-nav {
+    background: #2A3780 !important; /* Sets the header background to blue */
 }
 
-.navbar-nav .nav-item:nth-of-type(1) {
-    display: none;
-}
