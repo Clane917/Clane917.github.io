@@ -13,3 +13,13 @@
 .section.tickets {
     display: none; /* Hides the tickets section */
 }
+
+@media (max-width: 768px) { /* Targets mobile screens */
+    .mobile-menu__item:nth-of-type(1) {
+        display: none !important; /* Hides the first item (local_play) */
+    }
+
+    .mobile-menu__item:nth-of-type(2) {
+        display: none !important; /* Hides the second item (Levels1) */
+    }
+}
