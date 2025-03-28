@@ -3,7 +3,11 @@
 }
 
 .navbar.top-nav {
-    background: #2A3780; /* Sets the header background to blue */
+    background: #eb1010 !important; /* Sets the header background to blue */
+}
+
+.navbar-nav .nav-item:nth-of-type(1) {
+    display: none !important; /* Force hides "Levels1" */
 }
 
 .section.tickets {
