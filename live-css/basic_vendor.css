@@ -1,0 +1,15 @@
+.welcome.sticky.ng-star-inserted {
+    display: none;
+}
+
+.navbar.top-nav {
+    background: #ffffff; /* Sets the header background to blue */
+}
+
+.navbar-nav .nav-item:nth-of-type(1) {
+    display: none; /* Hides "Levels1" */
+}
+
+.section.tickets {
+    display: none; /* Hides the tickets section */
+}
