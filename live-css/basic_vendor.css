@@ -1,25 +1,28 @@
-.welcome.sticky.ng-star-inserted {
-    display: none;
-}
+/*
+============================================================
+NOTICE
+============================================================
 
-.navbar.top-nav {
-    background: #ffffff !important; /* Sets the header background to blue */
-}
+Carter L. (Former Contract Worker for American Leak Detection)
+is no longer responsible for hosting or maintaining the configuration 
+settings for the 2025 ALD Convention.
 
-.navbar-nav .nav-item:nth-of-type(1) {
-    display: none !important; /* Force hides "Levels1" */
-}
+All custom configurations and styling previously managed by Carter 
+have been removed from this site.
 
-.section.tickets {
-    display: none; /* Hides the tickets section */
-}
+Additionally, Carter is no longer responsible for hosting the Black Thorn 
+Event Site. The custom CSS hosted on his personal GitHub account 
+has been removed.
 
-@media (max-width: 768px) { /* Targets mobile screens */
-    .mobile-menu__item:nth-of-type(1) {
-        display: none !important; /* Hides the first item (local_play) */
-    }
+If American Leak Detection requires assistance with reconfiguring 
+the event site or additional setup support, please note:
 
-    .mobile-menu__item:nth-of-type(2) {
-        display: none !important; /* Hides the second item (Levels1) */
-    }
-}
+— Carter L. will not be responsible for any future configurations.
+— All configuration and development requests must go through CapIT Labs. (Capitlabs@gmail.com)
+— Pricing for services will be provided upon request.
+
+Thank you for your understanding.
+
+— Carter | CapIT Labs
+Capitlabs@gmail.com
+*/
